@@ -229,13 +229,17 @@ Kesinlikle. YunalCore'un external mimarisi tam olarak bu amaç için tasarlanmı
 
 ## 📸 Ekran Görüntüleri
 
-| Aimbot Ayarları | ESP Overlay | Triggerbot Ayarları |
+| Genel Arayüz | Aimbot Ayarları | Triggerbot Ayarları |
 |:---:|:---:|:---:|
-| ![Aimbot](https://yunalcore.app/img/aimbot.png) | ![ESP](https://yunalcore.app/img/esp.png) | ![Triggerbot](https://yunalcore.app/img/triggerbot.png) |
+| ![Menü](https://yunalcore.app/img/genel.png) | ![Aimbot](https://yunalcore.app/img/aimbot1.png) | ![Triggerbot](https://yunalcore.app/img/triggerbot.png) |
 
-| ESP Özelleştirme | Config Yöneticisi |
+| ESP Overlay 1 | ESP Overlay 2 | ESP Overlay 3 |
+|:---:|:---:|:---:|
+| ![ESP](https://yunalcore.app/img/esp.png) | ![ESP2](https://yunalcore.app/img/esp2.png) | ![ESP3](https://yunalcore.app/img/esp3.png) |
+
+| Tema Özelleştirme | Config Yöneticisi |
 |:---:|:---:|
-| ![ESP Seçenekleri](https://yunalcore.app/img/espozellestirme.png) | ![Config](https://yunalcore.app/img/config.png) |
+| ![Tema Seçenekleri](https://yunalcore.app/img/theme.png) | ![Config](https://yunalcore.app/img/config.png) |
 
 ---
 
