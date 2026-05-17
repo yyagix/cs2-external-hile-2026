@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://yunalcore.app/img/esp.png" alt="YunalCore CS2 ESP Overlay Ekran Görüntüsü" width="720"/>
+<img src="https://yunalcore.app/img/esp.png?v=2.2" alt="YunalCore CS2 ESP Overlay Ekran Görüntüsü" width="720"/>
 
 <br/>
 
@@ -168,22 +168,22 @@ YunalCore, oyun sürecinin **tamamen dışında** çalışır:
 
 ---
 
-## 💰 Fiyatlandırma
+## 💰 Fiyatlandırma & Paketler
 
-| Plan | Süre | Fiyat |
-|------|------|-------|
-| **Başlangıç** | 7 Gün | ₺49.99 |
-| **Standart** | 30 Gün | ₺149.99 |
-| **Premium** | 90 Gün | ₺349.99 |
-| **Ömür Boyu** | Sınırsız | ₺2,499.99 |
+> [!TIP]
+> **🎁 1 Günlük Ücretsiz Deneme:** Web sitemizde ücretsiz bir hesap oluşturarak, tüm premium özellikleri risksiz bir şekilde test edebileceğiniz **1 günlük ücretsiz deneme** hakkını anında kazanın!
 
-Tüm planlar şunları içerir:
+En güncel fiyatlar, dönemsel indirimler ve ödeme yöntemleri için lütfen resmi web sitemizi ziyaret edin:
+
+👉 **[yunalcore.app Üzerinden Fiyatları ve Paketleri Görüntüle](https://yunalcore.app/#pricing)**
+
+Tüm üyelik paketleri şunları içerir:
 - ✅ %100 VAC Ban Koruması
 - ✅ Hesap Güvenlik Garantisi
-- ✅ Polimorfik Build (Benzersiz .exe)
-- ✅ Otomatik Güncelleme & Bulut Offset'ler
-- ✅ 7/24 Destek Bileti
-- ✅ Bulut Silah Ayarları
+- ✅ Benzersiz Polimorfik Build (.exe)
+- ✅ Otomatik Güncelleme & Bulut Offset Senkronizasyonu
+- ✅ 7/24 Premium Canlı Destek
+- ✅ Bulut Silah Ayarları (Cloud Config) Sistemi
 
 ---
 
@@ -231,15 +231,15 @@ Kesinlikle. YunalCore'un external mimarisi tam olarak bu amaç için tasarlanmı
 
 | Aimbot Ayarları | Triggerbot Ayarları | Config Yöneticisi |
 |:---:|:---:|:---:|
-| ![Aimbot](https://yunalcore.app/img/aimbot1.png) | ![Triggerbot](https://yunalcore.app/img/triggerbot.png) | ![Config](https://yunalcore.app/img/config.png) |
+| ![Aimbot](https://yunalcore.app/img/aimbot1.png?v=2.2) | ![Triggerbot](https://yunalcore.app/img/triggerbot.png?v=2.2) | ![Config](https://yunalcore.app/img/config.png?v=2.2) |
 
 | ESP Overlay 1 | ESP Overlay 2 | ESP Overlay 3 |
 |:---:|:---:|:---:|
-| ![ESP](https://yunalcore.app/img/esp.png) | ![ESP2](https://yunalcore.app/img/esp2.png) | ![ESP3](https://yunalcore.app/img/esp3.png) |
+| ![ESP](https://yunalcore.app/img/esp.png?v=2.2) | ![ESP2](https://yunalcore.app/img/esp2.png?v=2.2) | ![ESP3](https://yunalcore.app/img/esp3.png?v=2.2) |
 
 | Tema Özelleştirme |
 |:---:|
-| ![Tema Seçenekleri](https://yunalcore.app/img/theme.png) |
+| ![Tema Seçenekleri](https://yunalcore.app/img/theme.png?v=2.2) |
 
 ---
 
