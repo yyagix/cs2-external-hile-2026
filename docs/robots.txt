@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yyagix.github.io/cs2-external-hile-2026/sitemap.xml

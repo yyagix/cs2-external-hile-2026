@@ -1,270 +1,87 @@
 <div align="center">
 
-# 🔴 YunalCore — External CS2 Hile Sistemi
+# YunalCore v3.4.0 — VAC Korumalı External CS2 Hile, ESP & Aimbot
 
-### En Güvenli Undetected External Counter-Strike 2 Hilesi — Salt-Okunur Bellek Mimarisi
+### OBS & Discord Görünmez (Streamproof) Harici Katman · 1ms Triggerbot · Bomba Rehberi · Bulut Config
 
-[![Website](https://img.shields.io/badge/Website-yunalcore.app-d90429?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yunalcore.app)
-[![Durum](https://img.shields.io/badge/Durum-UNDETECTED-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white)](https://yunalcore.app)
-[![Yöntem](https://img.shields.io/badge/Yöntem-EXTERNAL%20(RPM)-blue?style=for-the-badge&logo=shield&logoColor=white)](https://yunalcore.app)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://yunalcore.app)
-
-<br/>
-
-<img src="https://yunalcore.app/img/esp.png?v=2.2" alt="YunalCore CS2 ESP Overlay Ekran Görüntüsü" width="720"/>
+[![Resmi Site](https://img.shields.io/badge/Resmi_Site-yunalcore.app-c81622?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yunalcore.app/tr)
+[![Durum](https://img.shields.io/badge/Durum-UNDETECTED-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white)](https://yunalcore.app/tr/status)
+[![Deneme](https://img.shields.io/badge/Ücretsiz_Deneme-24_Saat_Kartsız-ef4444?style=for-the-badge)](https://yunalcore.app/tr/cs2-bedava-hile)
+[![Discord](https://img.shields.io/badge/Topluluk-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eY6m6R2mDU)
 
 <br/>
 
-**YunalCore**, Counter-Strike 2 için geliştirilmiş %100 undetected **external** hile sistemidir. Internal hilelerden farklı olarak, oyun sürecine hiçbir şekilde müdahale etmez — yalnızca **salt-okunur bellek erişimi** (ReadProcessMemory) kullanır. Bu sayede **oyun verisi hiçbir zaman değiştirilmez**, enjeksiyon riski sıfırdır ve **değerli hesaplarınız için en yüksek güvenlik seviyesi** sağlanır.
+<a href="https://yunalcore.app/tr">
+  <img src="https://yunalcore.app/img/showcase-nightmode.webp" alt="YunalCore CS2 External Night Mode, İskelet ESP, C4 ve Silah İkonları" width="820"/>
+</a>
 
-[🌐 Web Sitesi](https://yunalcore.app) · [📥 Kayıt Ol](https://yunalcore.app/register) · [💬 Destek](https://yunalcore.app/help)
+<br/>
+
+**YunalCore**, Counter-Strike 2 dosyalarına ve oyun belleğine DLL enjeksiyonu yapmadan tamamen dışarıdan çalışan **VAC korumalı External CS2 hile** sistemidir. OBS Studio ve Discord ekran paylaşımlarında görünmeyen **Streamproof Wallhack**, insansı **Legit Aimbot + 2026 RCS**, **1ms Triggerbot**, **Grenade Helper (Smoke/Flash)** ve **8 haneli Cloud Config** paylaşımı tek lisansta sunulur.
+
+[Resmi Web Sitesi](https://yunalcore.app/tr) · [24 Saat Ücretsiz Dene](https://yunalcore.app/tr/cs2-bedava-hile) · [CS2 Hile Satın Al](https://yunalcore.app/tr/cs2-hile-satin-al) · [Bulut Configler](https://yunalcore.app/tr/configs) · [Kurulum Rehberi (Pages)](https://yyagix.github.io/cs2-external-hile-2026/) · [Discord](https://discord.gg/eY6m6R2mDU)
 
 </div>
 
 ---
 
-## 🛡️ Neden External, Internal'dan Daha Güvenli?
+## Temel Özellikler (v3.4.0)
 
-CS2 hilesi seçerken anlamanız gereken en önemli konu budur. Kullanılan yöntem, hesabınızın güvenliğini doğrudan belirler:
+### 1. OBS & Discord Streamproof Wallhack (ESP) & Dünya Bilgisi
+- **Köşe / 2D Kutu ESP**, eklem noktalı **İskelet**, görünür / duvar arkası renk ayrımı, Can & Zırh barları, Steam Avatarı ve keskin silah ikonları.
+- **Dünya & Taktik ESP**: Yerdeki silahlar, C4 patlama sayacı, Sound ESP ayak sesi halkaları, harici 2D Radar, Spectator List (İzleyici Listesi) ve Night Mode gece modu.
+- **Tam Streamproof Koruma**: OBS Studio ve Discord ekran paylaşımında tamamen görünmez çalışır.
+- Detaylı sayfa: [CS2 Wallhack & Streamproof ESP](https://yunalcore.app/tr/cs2-wallhack).
 
-### ❌ Internal Hileler (Riskli)
-Internal hileler, **cs2.exe sürecine DLL enjekte ederek** ve **oyun belleğine doğrudan veri yazarak** (WriteProcessMemory) çalışır. Bu demektir ki:
-- Oyun verilerini **değiştirirler** — VAC, değiştirilmiş bellek bölgelerini tespit edebilir
-- DLL enjeksiyonu, süreç handle tablosunda **adli iz** bırakır
-- **Hook** (fonksiyon yönlendirme) kullanırlar — VAC bunları aktif olarak tarar
-- Oyun bütünlük kontrolleri değiştirilmiş kod bölümlerini algılayabilir
-- **Sonuç: Yüksek ban riski**, özellikle skinli ve yüksek rankli değerli hesaplarda
+### 2. Doğal Legit Aimbot & Akıllı Geri Tepme Kontrolü (RCS)
+- 144Hz–360Hz monitörlere uygun pürüzsüz takip, Velocity Prediction (hareket tahmini), FOV / Deadzone ve insan refleksine uygun Humanizer.
+- **Otomatik Silah Profilleri**: Tabanca, SMG, Tüfek ve Sniper (AWP / SSG08) değişiminde ayar otomatik geçer.
+- **Gelişmiş 2026 RCS**: İlk mermide yukarı sıçrama yapmayan sprey kontrolü.
+- Detaylı sayfa: [CS2 Legit Aimbot & RCS](https://yunalcore.app/tr/cs2-aimbot).
 
-### ✅ YunalCore External (Güvenli)
-YunalCore, oyun sürecinin **tamamen dışında** çalışır:
-- Yalnızca **ReadProcessMemory** kullanır — oyun belleği **asla değiştirilmez**
-- **DLL enjeksiyonu yok** — cs2.exe'ye hiçbir şey yüklenmez
-- **Hook yok** — fonksiyon yönlendirme yok, IAT yaması yok
-- **Sürücü (driver) yok** — anti-cheat uyarısı tetikleyecek kernel bileşeni yok
-- **Ayrı overlay penceresi** üzerinde render yapar — oyun kendisi dokunulmaz
-- **Sonuç: Premium hesaplar, ranked oyun ve uzun vadeli güvenlik için tasarlanmıştır**
+### 3. 1ms Triggerbot & Bomba Rehberi (Grenade Helper)
+- Ayrı 1ms thread ile çalışan ultra hızlı tetikleme; silaha özel gecikme, burst ve AWP için Scoped-Only / Auto-Scope desteği.
+- **Grenade Helper**: Mirage gibi rekabetçi haritalarda Smoke, Flash ve Molotof duruş & nişan noktalarını doğrudan ekranda gösterir.
+- Detaylı sayfa: [1ms CS2 Triggerbot & Bomba Rehberi](https://yunalcore.app/tr/cs2-triggerbot).
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│                   INTERNAL vs EXTERNAL                       │
-├────────────────────────────┬─────────────────────────────────┤
-│   ❌ Internal Hile         │   ✅ YunalCore (External)       │
-├────────────────────────────┼─────────────────────────────────┤
-│ Oyuna DLL enjekte eder     │ Ayrı .exe olarak çalışır       │
-│ WriteProcessMemory kullanır│ Sadece ReadProcessMemory        │
-│ Oyun fonksiyonlarını hooklar│ Sıfır hook, sıfır yönlendirme │
-│ Oyun verisini değiştirir   │ Oyun verisi asla dokunulmaz     │
-│ Enjeksiyon izi bırakır     │ Adli iz bırakmaz               │
-│ Kernel sürücü gerektirir   │ Sürücü gerektirmez              │
-│ Yüksek VAC algılama riski  │ %100 VAC undetected             │
-│ Ana hesaplar için riskli   │ Premium hesaplar için güvenli   │
-└────────────────────────────┴─────────────────────────────────┘
-```
-
-> **Özet:** Değerli skinleri, madalyaları veya yüksek rankı olan bir Steam hesabınız varsa — internal hile kullanmak hesabınızla kumar oynamaktır. YunalCore'un external mimarisi, **hesabını kaybetme lüksü olmayan kullanıcılar** için özel olarak tasarlanmıştır.
+### 4. External ve Internal Farkı
+Internal hilelerin aksine oyunun içine DLL yüklemez, harici katmanda çalışır ve CS2 yamalarına bulut üzerinden hızlıca uyum sağlar.
+- Karşılaştırma: [CS2 External vs Internal Farkı](https://yunalcore.app/tr/external-vs-internal).
 
 ---
 
-## ⚡ Özellikler
+## Oyun İçi & Menü Görselleri (v3.4.0)
 
-### 🎯 İnsansılaştırılmış Aimbot
-- Dinamik yumuşatma eğrileriyle **çok noktalı kemik hedefleme**
-- Bağımsız **Geri Tepme Kontrol Sistemi (RCS)** — spray paternlerini yok eder
-- Silaha özel yapılandırılabilir FOV, hız ve kemik önceliklendirme
-- Profesyonel oyuncu nişanını taklit eden insansılaştırılmış fare hareketi
-- Görüş kontrolü — asla duvardan ateş etmez
+| ESP Açık (Mirage A-Site) | Standart CS2 Görünümü |
+|:---:|:---:|
+| ![YunalCore ESP Açık](https://yunalcore.app/img/showcase-esp-on.webp) | ![CS2 Temiz Görünüm](https://yunalcore.app/img/showcase-esp-off.webp) |
 
-### 👁️ Overlay ESP (Ekstra Duyusal Algı)
-- **Kutu ESP** — 2D / 3D / Köşe sınır kutuları
-- **İskelet ESP** — Gerçek zamanlı kemik yapısı çizimi
-- **Sağlık çubukları** — Renk kodlu sağlık göstergeleri
-- **İsim & Mesafe** — Oyuncu bilgi katmanı
-- **Silah ikonları** — Her düşmanın hangi silahı taşıdığını görün
-- **Bağlantı çizgileri** — Düşman pozisyonlarına yön çizgileri
-- Tamamen özelleştirilebilir renkler, kalınlık ve çizim mesafesi
+| Night Mode & C4 / Silah ESP | Grenade Helper (Smoke Rehberi) |
+|:---:|:---:|
+| ![YunalCore Night Mode](https://yunalcore.app/img/showcase-nightmode.webp) | ![YunalCore Grenade Helper](https://yunalcore.app/img/showcase-grenade.webp) |
 
-### 🔫 Triggerbot
-- Nişangâh hedefe hizalandığında otomatik ateş
-- İnsansı tepki için yapılandırılabilir **gecikme süresi** (min/max ms)
-- Kemiğe özel tetikleme (sadece kafa, gövde veya tümü)
-- Sıfır gecikme için **ayrı thread** üzerinde çalışır
-
-### 🔐 Çok Katmanlı Güvenlik Mimarisi
-| Katman | Teknoloji | Amacı |
-|--------|----------|-------|
-| **Mimari** | %100 External (RPM) | Oyuna müdahale yok, enjeksiyon yok |
-| **Binary** | Polimorfik build'ler | Her kullanıcıya benzersiz çalıştırılabilir dosya |
-| **String'ler** | XorStr şifreleme | Tüm metin içerikleri derleme zamanında şifreli |
-| **API Çağrıları** | LazyImporter | WinAPI çağrıları IAT'den gizli |
-| **Lisanslama** | HWID Kilidi | Donanıma bağlı, 30 günlük otomatik sıfırlama |
-| **Anti-Cheat** | VAC Bypass | Kanıtlanmış %100 koruma |
-
-### ☁️ Bulut Altyapısı
-- **Otomatik Offset Güncelleyici** — CS2 yamaları sonrası dakikalar içinde uyum sağlar
-- **Bulut Silah Ayarları** — Silaha özel ayarları kaydet, yükle ve paylaş
-- **Durum Paneli** — Abonelik, HWID ve sistem sağlığını takip et
-
-### 🎨 Ek Özellikler
-- **Radar Hack** — Düşman pozisyonlarıyla geliştirilmiş minimap
-- **Bomba Sayacı** — Hassas C4 geri sayım overlay'ı
-- **Seyirci Uyarısı** — Birinin sizi izlediğini bilin
-- **Özel Nişangâh** — Yapılandırılabilir overlay nişangâhı
-- **Gece Modu** — Tam ekran renk filtresi (overlay tabanlı, belleğe yazma yok)
-
----
-
-## 🖥️ Sistem Gereksinimleri
-
-| Bileşen | Minimum | Önerilen |
-|---------|---------|----------|
-| **İşletim Sistemi** | Windows 10 64-bit | Windows 11 64-bit |
-| **İşlemci** | Intel i5 / AMD Ryzen 5 | Intel i7 / AMD Ryzen 7 |
-| **RAM** | 8 GB | 16 GB |
-| **GPU** | DirectX 11 uyumlu | — |
-
-> **Ek yazılım, sürücü veya kernel modülü gerekmez.** YunalCore bağımsız bir external uygulama olarak çalışır.
-
----
-
-## 📦 Hızlı Başlangıç
-
-```
-1. Hesap Oluştur    →  yunalcore.app'de kayıt ol
-2. Plan Seç         →  Abonelik seç (7 günlük — Ömür Boyu)
-3. İndir            →  Sana özel polimorfik build'ini al
-4. HWID Bağla       →  Tek tıkla donanım kaydı
-5. Başlat & Oyna    →  CS2'yi aç ve hükmetmeye başla
-```
-
-### Nasıl Çalışır
-
-```
-┌──────────────────────────────────────────────┐
-│              YunalCore Client                │
-│                                              │
-│  ┌─────────┐  ┌─────────┐  ┌──────────────┐ │
-│  │ Aimbot  │  │   ESP   │  │  Triggerbot  │ │
-│  │ Motoru  │  │ Overlay │  │   (Thread)   │ │
-│  └────┬────┘  └────┬────┘  └──────┬───────┘ │
-│       │            │              │          │
-│  ┌────┴────────────┴──────────────┴───────┐  │
-│  │    Bellek Okuyucu (RPM — Salt Okunur)  │  │
-│  │  Enjeksiyon Yok · Hook Yok · Yazma Yok │  │
-│  └────────────────┬───────────────────────┘  │
-│                   │                          │
-│  ┌────────────────┴───────────────────────┐  │
-│  │     Bulut Offset Güncelleyici Servisi  │  │
-│  │   CS2 yamalarından sonra otomatik uyum │  │
-│  └────────────────────────────────────────┘  │
-└──────────────────────────────────────────────┘
-                    │
-         ReadProcessMemory (Salt Okunur)
-                    │
-          ┌─────────┴─────────┐
-          │   CS2 (cs2.exe)   │
-          │  ⚠️ ASLA DEĞİŞMEZ │
-          └───────────────────┘
-```
-
----
-
-## 💰 Fiyatlandırma & Paketler
-
-> [!TIP]
-> **🎁 1 Günlük Ücretsiz Deneme:** Web sitemizde ücretsiz bir hesap oluşturarak, tüm premium özellikleri risksiz bir şekilde test edebileceğiniz **1 günlük ücretsiz deneme** hakkını anında kazanın!
-
-En güncel fiyatlar, dönemsel indirimler ve ödeme yöntemleri için lütfen resmi web sitemizi ziyaret edin:
-
-👉 **[yunalcore.app Üzerinden Fiyatları ve Paketleri Görüntüle](https://yunalcore.app/#pricing)**
-
-Tüm üyelik paketleri şunları içerir:
-- ✅ %100 VAC Ban Koruması
-- ✅ Hesap Güvenlik Garantisi
-- ✅ Benzersiz Polimorfik Build (.exe)
-- ✅ Otomatik Güncelleme & Bulut Offset Senkronizasyonu
-- ✅ 7/24 Premium Canlı Destek
-- ✅ Bulut Silah Ayarları (Cloud Config) Sistemi
-
----
-
-## ❓ Sıkça Sorulan Sorular
-
-<details>
-<summary><strong>Ana hesabım için gerçekten güvenli mi?</strong></summary>
-<br/>
-Evet. YunalCore %100 external'dir — yalnızca oyun belleğini okur, asla değiştirmez. DLL enjeksiyonu yok, hook yok, sürücü yok. CS2 hileleri için mevcut en güvenli yöntemdir. Kullanıcılarımızın büyük çoğunluğu pahalı envanterleri ve yüksek ranklı hesaplarda kullanmaktadır.
-</details>
-
-<details>
-<summary><strong>External ve internal hile arasındaki fark nedir?</strong></summary>
-<br/>
-Internal hileler, oyuna doğrudan kod (DLL) enjekte eder ve oyun belleğine veri yazar. Bu, VAC tarafından kolayca tespit edilebilir. YunalCore gibi external hileler ayrı bir süreç olarak çalışır ve sadece oyun belleğini OKUR — oyunun kendisine asla dokunulmaz. Bu nedenle external hilelerin algılanma riski temelden çok daha düşüktür.
-</details>
-
-<details>
-<summary><strong>HWID kilidimi sıfırlayabilir miyim?</strong></summary>
-<br/>
-Evet, donanıma bağlı lisansınız otomasyon sistemi üzerinden her 30 günde bir sıfırlanabilir. Bilgisayar veya parça değişikliği sorun yaratmaz.
-</details>
-
-<details>
-<summary><strong>CS2 güncellemelerinden sonra çalışmaya devam eder mi?</strong></summary>
-<br/>
-Offset güncelleyici sistemimiz, CS2'ye yeni bir yama geldiğinde bulut sunucuları üzerinden dakikalar içinde otomatik uyum sağlar. Kesintisiz kullanım — manuel güncelleme gerekmez.
-</details>
-
-<details>
-<summary><strong>Competitive/Premier modunda kullanmak güvenli mi?</strong></summary>
-<br/>
-YunalCore'un insansılaştırılmış aimbot'u ve external mimarisi, Premier ve Competitive dahil tüm oyun modları için uygundur. Yumuşatma eğrileri ve tepki gecikmeleri, oyununuzu doğal gösterir.
-</details>
-
-<details>
-<summary><strong>Seçkin/değerli hesabımda kullanabilir miyim?</strong></summary>
-<br/>
-Kesinlikle. YunalCore'un external mimarisi tam olarak bu amaç için tasarlanmıştır. Oyun belleğine hiçbir veri yazılmadığı, DLL enjeksiyonu yapılmadığı ve hook kullanılmadığı için, skinli, madalyalı ve yüksek ranklı hesaplarda güvenle kullanılabilir. Internal hileler oyuna doğrudan müdahale ettiği için her zaman risk taşır — external mimarimiz bu riski sıfıra indirir.
-</details>
-
----
-
-## 📸 Ekran Görüntüleri
-
-| Aimbot Ayarları | Triggerbot Ayarları | Config Yöneticisi |
+| Aimbot Genel Ayarlar | Aimbot Legit Sekmesi | Cyber City Tema Kütüphanesi |
 |:---:|:---:|:---:|
-| ![Aimbot](https://yunalcore.app/img/aimbot1.png?v=2.2) | ![Triggerbot](https://yunalcore.app/img/triggerbot.png?v=2.2) | ![Config](https://yunalcore.app/img/config.png?v=2.2) |
-
-| ESP Overlay 1 | ESP Overlay 2 | ESP Overlay 3 |
-|:---:|:---:|:---:|
-| ![ESP](https://yunalcore.app/img/esp.png?v=2.2) | ![ESP2](https://yunalcore.app/img/esp2.png?v=2.2) | ![ESP3](https://yunalcore.app/img/esp3.png?v=2.2) |
-
-| Tema Özelleştirme |
-|:---:|
-| ![Tema Seçenekleri](https://yunalcore.app/img/theme.png?v=2.2) |
+| ![Aimbot Genel](https://yunalcore.app/img/showcase-aimbot-general.webp) | ![Aimbot Legit](https://yunalcore.app/img/showcase-aimbot-legit.webp) | ![Tema Seçenekleri](https://yunalcore.app/img/showcase-theme.webp) |
 
 ---
 
-## 🔗 Bağlantılar
+## 24 Saat Ücretsiz Deneme & Bulut Configler
 
-| Kaynak | URL |
-|--------|-----|
-| 🌐 **Resmi Web Sitesi** | [yunalcore.app](https://yunalcore.app) |
-| 📥 **Kayıt Ol** | [yunalcore.app/register](https://yunalcore.app/register) |
-| 🔐 **Giriş Yap** | [yunalcore.app/login](https://yunalcore.app/login) |
-| 📋 **Yasal Politikalar** | [yunalcore.app/legal](https://yunalcore.app/legal) |
-| 💬 **Destek Merkezi** | [yunalcore.app/help](https://yunalcore.app/help) |
+- **Kartsız 24 Saat Ücretsiz Deneme:** [yunalcore.app/tr/cs2-bedava-hile](https://yunalcore.app/tr/cs2-bedava-hile) üzerinden kayıt olup e-postanı doğruladığında 24 saatlik deneme otomatik açılır.
+- **Hazır Premier Configler:** Topluluğun paylaştığı 8 haneli kodları [yunalcore.app/tr/configs](https://yunalcore.app/tr/configs) dizininden anında çekebilirsin (Örnek kod: `35F2DF07`).
+- **Kurulum ve Rehberler:** [yunalcore.app/tr/rehber](https://yunalcore.app/tr/rehber) veya statik [GitHub Pages Kurulum Sayfası](https://yyagix.github.io/cs2-external-hile-2026/).
 
 ---
 
-## ⚠️ Sorumluluk Reddi
+## Bağlantılar
 
-YunalCore, **eğitim amaçları, güvenlik araştırması ve oyun test otomasyonu** için geliştirilmiştir. Çevrimiçi rekabetçi ortamlarda kullanımı, oyunun hizmet koşullarını ihlal edebilir. Geliştiriciler, kötüye kullanımdan kaynaklanan sonuçlardan sorumlu değildir. Riski kabul ederek kullanınız.
-
----
-
-<div align="center">
-
-**© 2026 YunalCore Systems. Tüm Hakları Saklıdır.**
-
-[![Website](https://img.shields.io/badge/🌐_Ziyaret_Et-yunalcore.app-d90429?style=flat-square)](https://yunalcore.app)
-
-</div>
+| Sayfa | Link |
+|---|---|
+| Ana Sayfa (TR) | [yunalcore.app/tr](https://yunalcore.app/tr) |
+| Paketler & Satın Al | [yunalcore.app/tr/cs2-hile-satin-al](https://yunalcore.app/tr/cs2-hile-satin-al) |
+| 24 Saat Bedava Deneme | [yunalcore.app/tr/cs2-bedava-hile](https://yunalcore.app/tr/cs2-bedava-hile) |
+| Canlı Durum & Güncellemeler | [yunalcore.app/tr/status](https://yunalcore.app/tr/status) |
+| English Portal | [yunalcore.app/en](https://yunalcore.app/en) |
+| Rusça Portal (Русский) | [yunalcore.app/ru](https://yunalcore.app/ru) |
+| Discord Topluluğu | [discord.gg/eY6m6R2mDU](https://discord.gg/eY6m6R2mDU) |
